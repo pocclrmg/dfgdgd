@@ -10,13 +10,13 @@
 
 	&:before {
 		content: "";
-		background: linear-gradient(to bottom,rgba(0,0,0,.65) 0,rgba(0, 0, 0, 0) 100%);
+		background: rgba(0,0,0,.3);
 		position: absolute;
 		top: 0;
 		left: 0;
 		right: 0;
-		height: 300px;
-}
+		bottom: 0;
+	}
 
 	p {
 		color: #fff;
@@ -40,6 +40,11 @@
 	.hero-text-right {
 		position: absolute;
 		right: 0;
+	}
+}
+.hero.home {
+	&:before {
+		background: rgba(140, 9, 135, 0.61);
 	}
 }
 
@@ -71,4 +76,13 @@
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
+}
+.hero-sm {
+	position: relative;
+	height: 550px;
+	background: $brand-color;
+	&:before {
+		background: rgba(0,0,0,0);
+	}
+
 }
