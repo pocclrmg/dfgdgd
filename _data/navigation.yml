@@ -1,6 +1,8 @@
-- name: Blog
-  link: /blog/
+#- name: Blog
+#  link: /blog/
 - name: About
   link: /about/
+- name: Directory
+  link: /directory/
 - name: Contact
   link: /contact/
