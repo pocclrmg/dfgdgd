@@ -3,14 +3,14 @@ left_links:
 #    link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
+  - name: Directory
+    link: /directory/
 right_links:
   - name:
     link: https://www.facebook.com/PCPCleveland/
     new_window: true
     social_icon: Facebook
-  - name:
-    link: https://instagram.com/
-    social_icon: Instagram
-    new_window: true
+#  - name:
+#    link: https://instagram.com/
+#    social_icon: Instagram
+#    new_window: true

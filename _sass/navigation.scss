@@ -3,7 +3,7 @@
 	padding: 10px 0;
 	a {
 		display: block;
-		padding: 30px 0;
+		padding: 25px 0;
 	}
 
 	@media #{$mid-point} {
@@ -29,14 +29,34 @@ nav {
 		padding: 0 20px;
 		display: inline;
 	}
-
-
+/*
+	ul {
+		padding: 0;
+		margin: 0;
+		display: inline;
+		li {
+			list-style: none;
+			font-size: .8em;
+		}
+	}
+	> ul > li {
+		display: inline;
+	}
+	@media #{$mid-point} {
+		ul ul {
+			position: absolute;
+			top: 40px;
+			left: 20px;
+		}
+	}
+	*/
 	a {
 		margin: 0 3px;
-		padding: 14px 10px;
+		padding: 14px 20px 14px 0;
 		border: 0;
 		display: none;
 		letter-spacing: 1px;
+		position: relative;
 
 		@media #{$mid-point} {
 			display: inline;
@@ -49,7 +69,7 @@ nav {
 			display: inline;
 			position: absolute;
 			right: 10px;
-			top: -7px;
+			top: -13px;
 			font-size: 1.9em;
 			border: 0;
 			text-shadow: 0;

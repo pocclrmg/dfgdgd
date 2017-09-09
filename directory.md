@@ -1,6 +1,7 @@
 ---
 title: Directory
 description: Life Ripples Ministries Global Faith Community 2016 member directory.
+image: /images/hero/crowd.jpg
 layout: page-content
 ---
 
@@ -178,4 +179,4 @@ Ajay Masih | RIT (Reverend In Training) |  | &#10003;
 
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
-Sabeen Hidayat Chromjak | MIT (Minister In Training) | gillsabeen@yahoo.com | &#10003;
+Sabeen Hidayat Chromjak | EIT (Evangelist In Training) | gillsabeen@yahoo.com | &#10003;

@@ -154,16 +154,6 @@ table > :not(:first-child) > tr,
 table > :first-child > tr:not(:first-child) {
   border-top: 1px solid #e5e5e5;
 }
-/*
- * Hover
- */
-table > tr:hover,
-table tbody tr:hover {
-  background: #f8f8f8;
-}
-tbody tr > :last-child {
-	//color: green;
-}
 /* Responsive table
  ========================================================================== */
 /* Phone landscape and smaller */
