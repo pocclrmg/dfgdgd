@@ -112,6 +112,7 @@ Waqar Sohail | EIT (Evangelist In Training) |  | &#10003;
 Amer Zeeshan | MIT (Minister In Training) |  | &#10003;
 Kamran John | MIT (Minister In Training) |  | &#10003;
 Khurram Benjamin | RIT (Reverend In Training) |  | &#10003;
+Lazarus John | RIT (Reverend In Training) |  | &#10003;
 Babar | RIT (Reverend In  Training) |  | &#10003;
 Asher Bhatti | RIT (Reverend In Training) |  | &#10003;
 Zeeshan Ashraf | RIT (Reverend In Training) |  | &#10003;
@@ -161,7 +162,7 @@ Bwiire Johnson | Pastor |  | &#10003;
 
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
-Niva Rani Sarkar | MIT(Minister In Training) |  | &#10003;
+Niva Rani Sarkar | MIT (Minister In Training) |  | &#10003;
 
 <br/>
 
@@ -180,3 +181,11 @@ Ajay Masih | RIT (Reverend In Training) |  | &#10003;
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Sabeen Hidayat Chromjak | EIT (Evangelist In Training) | gillsabeen@yahoo.com | &#10003;
+
+<br/>
+
+## United Arab Emirates
+
+Name | Title | In Good Standing
+--- | --- | --- | ---
+Mohsin Ayub | MIT (Minister In Training) | &#10003;
