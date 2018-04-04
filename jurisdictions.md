@@ -17,21 +17,13 @@ This is the Jurisdiction in which:
 1. The Mother Chapel (Headquarters) resides.
 2. Prophetic Outreach Chapel/Cleveland (POCC)-LRMG resides.
 
-### Our Chapel
+{% include image.html img="1stlady.jpg" alt="1st Lady" class="uk-align-right uk-width-1-2" %}
+
 The chapel is a place where ALL are welcome! In 2012 the Lord called for the formation and operation of this chapel. If you like the smaller chapel where everybody knows your name, where you are missed when you are not there, a place, a place where you feel love, where YOU matter! Most importantly this a place where the presents of the Lord is here. Where miracles, healing, and The Word of God is preached.
 
 This is a place where we welcome the Holy Spirit taking control of the services. Where the primary goal is winning souls for Jesus the Christ, and working with the saints to meet the condition to receive the gift of the indwelling of the Holy Spirit, with evidence of speaking-in-tongues.
 
 We are a diverse and multi-cultural congregation, that come together with the freedom to praise the Lord. The freedom to tell of his goodness, sing our songs of praise in the Testimony Services. We obey Psalms 150.
-
-### Our History
-This ministry was started as an "Outreach Ministry" in 2007 by Abbott/Presiding-Prelate/Chief-Apostle C. Tyehimba Thonor-Kuykendall, II, D.D. He was lead to go out to the streets and pass out tracks & Our Daily Bread. Althouth the targeted area was E116th an Buckeye, he went up and down buckeye passing out tracks, praying for those that needed prayer, and counseling those that need this as well. All of this was accomplished by leading of the Holy Spirit.
-
-The Out-Reach minister served those that didn't have a pastor or a church home. Hospital visits to pray for those requesting prayer. Home visits to check on those that were home-bound. Nursing home visits for thise that reside there. Also included pre-wedding counseling, alone with the matrimony service.
-
-In 2013, the Lord called Abbott Thonor-Kuykendall to start pastoring inside a santuary as well as outside as an "Outreach Ministry." He gave us the name "Prophetic Outreach Chapel", and as a chapel of the Life Ripples Ministries Global; the -LRMG is added
-
-In 2014, the Lord seeded a branch in Pakistan. The name of that ministry is called "Prophetic Chapel Pakistan-LRMG". Please keep this chapel in your prayers as many are experiencing a pentecostal worship service for the first time. Please pray for the ministry staff there that is being trained as well. As the Pakistan Jurisdiction expands, more technology and much patients is needed on all parties. Pray that the power of the Holy Spirit keeps superseeding all issues, and languages .
 
 ### Ministries
 Our ministry is outreach based. We are not a chapel that exist between 4 walls, we have been commanded by the scriptures to "go out!" Our Mission Statement is found in Luke 14:23  "And the Lord said unto the servant, Go out into the highways and hedges, and compel them to come in, so that my house may be filled."
@@ -60,7 +52,7 @@ We want everyone to come and worship the Lord with us. These are the different w
 3:30pm Saturday School
 4:30pm Worship Service & Radio Broadcast
 
-#### 3rd, 4th & 5th tuesday nights
+#### 3rd, 4th & 5th Tuesday nights
 6:30pm Prayer & Bible Study.
 
 #### 1st & 2nd Tuesday nights
@@ -78,6 +70,9 @@ We have a ministry  of visiting the sick not only in the hospital, but in the nu
 <hr>
 
 ## Glory Miracles Celebration Jurisdiction Kenya
+
+{% include image.html img="kenya.png" alt="Glory Miracles Celebration Jurisdiction Kenya" class="uk-align-right" %}
+
 Imani Children Centre-Orphanage (Imani means Faith).
 Glory Miracle Celebration Centre
 
@@ -89,6 +84,11 @@ Rev Kennedy Musungu an orphan himself founded IMANI CHILDREN CENTRE.  Imani mea
 
 <hr>
 
+## Prophetic Outreach Chapel Pakistan
+{% include image.html img="pakistan.png" alt="LRMG Pakistan" %}
+
+<hr>
+
 ## Hour Of Deliverance Ministries	Liberia
 * Food Distribution
 * CAP
@@ -97,4 +97,4 @@ Rev Kennedy Musungu an orphan himself founded IMANI CHILDREN CENTRE.  Imani mea
 
 Overseer David Greene is the Jurisdictional Overseer of the Hour of Deliverance Jurisdiction, and the pastor of Hour of Deliverance Ministries-LRMG in Congo Town, Liberia  There are currently over 5 pastors in this jurisdiction.
 
-Musungu an orphan himself founded IMANI CHILDREN CENTRE.  Imani means -Faith. There are over 6 Pastors and churches in this Jurisdiction.
+{% include image.html img="liberia.png" alt="Hour Of Deliverance Ministries	Liberia" %}

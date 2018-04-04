@@ -3,7 +3,10 @@ title: Life Ripples Ministries Global Mission
 ---
 
 ## Purpose
+{% include image.html img="002.jpg" class="uk-align-left uk-width-1-5" %}
+
 This ministry seeks to reach the nations through Ministry of God's word, Preaching the gospel of Christ, supplying the Spirit of Jesus Christ through teachings of Christ, Planting chapels in the areas we Minister the word. We establish chapels and appoint Pastors & Overseers to give leadership to the chapel by enabling the Holy Spirit.
+
 Through Monastic Expressions & Teaching of Faith with an Evangelical Experience, bring God's church to its place of maturity. Establish the people-of-faith in the word of God, Serving neighbourhoods with Christ.
 
 ## Goals

@@ -9,18 +9,18 @@ navbar:
   style: light
   transparent: true
 header:
-    # background_image: https://source.unsplash.com/aViOQZzikVs
+    background_image: home-hero.jpg
     background_align: center
-    background_color: "#664498"
+    background_color: "#4a3e5a"
     background_overlay: true
     color: light
     align: center
 ---
 
-{% include cards.html id="home-cta" style="default" align="center" section="muted" %}
+{% include cards.html id="home-church" media="left" section="default" %}
 
-{% include cards.html id="home-church" style="secondary" media="left" section="none" %}
+{% include cards.html id="home-cta" align="center" section="muted" %}
 
-{% include instagram.html count="8" section="secondary" %}
+{% include instagram.html count="8" section="default" %}
 
-{% include cards.html id="home-broadcast" style="none" align="center" section="muted" %}
+{% include cards.html id="home-broadcast" style="none" align="center" section="primary" %}

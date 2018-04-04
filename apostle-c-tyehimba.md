@@ -3,12 +3,17 @@ title: Apostle C. Tyehimba
 ---
 
 ### Apostle C. Tyehimba Thonor-Kuykendall, II, D.D.
+
+{% include image.html img="thoner.jpg" alt="Apostle C. Tyehimba" class="uk-align-left uk-width-1-2@m" %}
+
 Apostle Thonor-Kuykendall is the Abbott / Presiding Prelate / Chief-Apostle & Founder of the Life Ripples Ministries Global  Faith-Community, which provides Pastoral Care Services, Out-Reach Ministries & Worship Services to those without a pastor and or a church home. He is the Jurisdictional Overseer of the Evangelistic Jurisdiction (Mother Chapel). In addition, ministries across the globe that are a part of this faith-community, are all involved in Out-Reach Ministries. Life Ripples Ministries Global started July 1, 2007. Tyehimba is also the Assistant Chaplin PH.A Lodge Ecclesiastes # 120, and a member of the Rollers Prayer Team. The Rollers Prayer Team is one of the ministries under the Pastoral Care Tier.
 
 Tyehimba is the founder and CEO of the One2 One Organization.  This organization supports and motivates youth who have Individual Educational Plans (IEPs), and enhance parent/guardian involvement in their childís IEP. One2One Organization is now: One2One Educational Out-Reach Programs. It is one of the tiers of our LRMG ministries.
+
 He also served as a Volunteer Guardian for 3 adults that have been adjudicated Mentally Incompetent by Probate Court.  He had been a volunteer for this program through the Adult Guardianship Program for over 6 years. This is one of our ministries under our Pastoral Care Services Tier.
 
 Tyehimba also worked in the Church Of God In Christ for decades in various capacities. Including but not limited to: singing in youth choir, the district choir. His trial sermon was @ Kinsman Rd C.O.G.I.C. under the leadership of the late Jessie L. Davis. He served in the Y.P.W.W. Department & also served as District Youth Pastor for 6 local churches in that district. Numerous other roles all of which were in an Out-Reach Ministry capacity.
+
 
 ### C. T. Thonor-Kuykendall Credentials
 

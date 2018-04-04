@@ -1,5 +1,17 @@
 ---
 title: Services
+navbar:
+  sticky: true
+  animation: true
+  style: light
+  transparent: true
+header:
+    background_image: home-hero.jpg
+    background_align: center
+    background_color: "#4a3e5a"
+    background_overlay: true
+    color: light
+    align: center
 ---
 
 Life often presents us with Ripples in our life: With all of the 12 services listed below, they can be customized to fit the particular type of ceremony you want. Whatever the ceremony, it most be faith-based in order for us to be true to our self.....

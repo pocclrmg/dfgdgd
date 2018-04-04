@@ -4,6 +4,8 @@ title: Out-Reach Ministries
 
 Perhaps we can help you in your time of need. We are a Non-denominational ordained minister willing to help you. Why go to the courthouse to get married, when you can have a small (40 or less people) private ceremony or a large ceremony @ our Chapel. In addition, we also perform commitment ceremonies as well. We can perform either ceremony @ your desired location as well.
 
+{% include image.html img="fall.jpg" alt="Fall Festival" %}
+
 Has a loved one passed on and you want to have a celebration of their life service (funeral service)? We are available to officiate this services @ your desired location. Do You Want a Traditional or Non-Denominational Ceremony?
 
 * Weddings

@@ -8,7 +8,7 @@
 remote_theme:       ivanchromjak/jekyll-theme-plus
 title:              LRMG
 description:        Jekyll theme.
-url:                "https://jekyll.plus" # Site base hostname & protocol, e.g. http://example.com
+url:                "https://lrmgfaith-community.com" # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
   light:            # logo-light.png
