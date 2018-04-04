@@ -1,0 +1,17 @@
+---
+title: Gallery
+description: Life Ripples Ministries Global Faith Community 2016 member directory.
+image: /images/hero/crowd.jpg
+layout: default
+---
+
+<section class="container">
+	<div class="portfolio grid grid-col-2">
+	<div class="grid-sizer"></div>
+		{% for image in site.static_files reversed %}
+			{% if image.path contains 'images/gallery' %}
+					<div class="grid-item"><img class="img-fluid" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></div>
+			{% endif %}
+		{% endfor %}
+	</div>
+</section>

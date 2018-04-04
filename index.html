@@ -11,7 +11,7 @@ bottom_image: https://source.unsplash.com/xnx_Q_sCUcU/2000x1322?a=.png
 			<h1 class="editable">Holy Convocation 2017</h1>
 			<p class="subtext editable">
 				October 26, 27, 28 2017<br>
-				Cleveland Chapel
+				Cleveland Chapel, Ohio
 			</p>
 			<h2>Upcoming Worship Times</h2>
 			<p class="subtext editable">
@@ -23,5 +23,16 @@ bottom_image: https://source.unsplash.com/xnx_Q_sCUcU/2000x1322?a=.png
 				3998 E71st Street Cleveland, Ohio 44105
 			</p>
 		</div>
+	</div>
+</section>
+
+<section>
+	<div class="text-container">
+		{% for post in site.posts %}
+			<div class="entry mb-5 mb-lg-6">
+				<h2 class="title-2 mb-3"><a class="post-link link-inverted" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+				{{ post.excerpt }}
+			</div>
+		{% endfor %}
 	</div>
 </section>
