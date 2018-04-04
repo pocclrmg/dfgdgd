@@ -1,85 +1,171 @@
-# ----
-# Site
+# Welcome to Plus!
+#
+# This config file affects your whole blog.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
-title: Life Ripples Ministries Global Faith Community
-url: "https://lrmgfaith-community.com/"
-baseurl:
-google_analytics_key:
-google_maps_javascript_api_key: AIzaSyDMqv-ddqRMNkdRnufD2Yubbff1XhegIu0
-disqus_shortname:
+# Site settings
+remote_theme:       ivanchromjak/jekyll-theme-plus
+title:              LRMG
+description:        Jekyll theme.
+url:                "https://jekyll.plus" # Site base hostname & protocol, e.g. http://example.com
+baseurl:            "" # Site subpath, e.g. /blog
+logo_image:
+  light:            # logo-light.png
+  dark:             # logo-dark.png
+permalink:          /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+date_format:        "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# paginate:	          5 # The number of posts to show per page on your blog page
+post_assets:        /assets/posts/ # Path to post content assets directory i.e post images, pdfs etc
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: App marketing template for Jekyll.
+
+paginate:           6 # Number of posts displayed on blog page
+paginate_path:      "/events/:num/" # Blog path
+
+
+google_analytics:   # Google analytics code, get your code here https://www.google.com/analytics/
+google_maps_api_key: AIzaSyAJTeOhKq4HhEsEbUze__fAPDQswd0gUSU # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+disqus:
+    shortname:      # Disqus comments shortname, requires Disqus account https://disqus.com/
+
+instagram_accesstoken: 1361941596.1677ed0.58119dea804549de96d313cfc870b3a7
+
+donations:
+  paypal:
+    text:           # DonateButton text
+    id:             # PayPal button ID
+    navbar:         # true
+
+footer:             # Default footer image settings
+    style:          secondary # default, muted, primary, secondary
+    layout:         center # center or columns
+    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+
+# Style settings
+navbar:
+  background:       "#28a5f5" # color value e.g. "#28a5f5"
+  style:            light # text color, dark or light
+  sticky:           true
+  search:           false
+
+# Author settings
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+  name:           Apostle C. Tyehimba Thonor-Kuykendall, II, D.D.
+  avatar:
+    image:
+    github:       pocclrmg
+  bio:            Abbott / Presiding Prelate / Chief-Apostle & Founder of the Life Ripples Ministries Global Faith-Community
+  url:
+  email:          lrmgincmotherchapel.usa@gmail.com
+  website:
+  facebook:       https://www.facebook.com/PCPCleveland/
+  flickr:
+  dribbble:
+  github:
+  googleplus:
+  instagram:      https://www.instagram.com/coveredundertheblood/
+  linkedin:
+  pinterest:
+  twitter:
+  vimeo:
+  youtube:
 
-# -----
-# Build
+authors:
+  john:
+    name:           John Smith
+    avatar:
+    bio:
+    url:
+    email:
+    website:
+    facebook:       https://www.facebook.com/
+    flickr:
+    dribbble:
+    github:
+    googleplus:
+    instagram:      https://www.instagram.com/coveredundertheblood/
+    linkedin:
+    pinterest:
+    twitter:        https://twitter.com/
+    vimeo:          https://vimeo.com/
 
-permalink: pretty
+# Social share buttons
+social_share:
+  twitter:          true
+  facebook:         true
+  linkedin:         false
+  googleplus:       false
+  pinterest:        false
+  reddit:           false
 
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# Social buttons
+social_networks:
+  email:          lrmgincmotherchapel.usa@gmail.com
+  website:
+  facebook:       https://www.facebook.com/PCPCleveland/
+  flickr:
+  dribbble:
+  github:
+  googleplus:
+  instagram:      https://www.instagram.com/coveredundertheblood/
+  linkedin:
+  pinterest:
+  twitter:
+  vimeo:
+  youtube:
+
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-sitemap
+  - jekyll-remote-theme
 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
-  - LICENCE
+  - node_modules
+  - package.json
+  - CHANGELOG
+  - LICENSE
+  - README
+  - /docs
 
+sass:
+  style:            compressed
+
+# collections:
 collections:
-  staff_members:
-    _hide_content: true
+  items:
+    output: false
+  sidebars:
+    output: false
 
-paginate: 10
-paginate_path: "/blog/:num/"
-
-jekyll-archives:
-  enabled: ['categories']
-
+# Defaults
 defaults:
-  -
-    scope:
+  # _posts
+  - scope:
       path: ""
+      type: posts
     values:
-      layout: "default"
-  -
-    scope:
-      type: "posts"
+      layout: post
+      width: right
+      width: single
+      comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
     values:
-      layout: "post"
-  -
-    scope:
-      path: "contact-success.html"
-    values:
-      layout: "page"
-
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - Email
-  - RSS
-
-_comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+      layout: page
+      width: single
+      sidebar: page

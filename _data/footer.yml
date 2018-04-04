@@ -1,16 +1,46 @@
-left_links:
-#  - name: Blog
-#    link: /blog/
-  - name: About
-    link: /about/
-  - name: Directory
-    link: /directory/
-right_links:
-  - name:
-    link: https://www.facebook.com/PCPCleveland/
-    new_window: true
-    social_icon: Facebook
-#  - name:
-#    link: https://instagram.com/
-#    social_icon: Instagram
-#    new_window: true
+# Center style footer navigation
+center:
+  - title: Services
+    url: /services/
+
+  - title: Events
+    url: /events/
+
+  - title: Jurisdictions
+    url: /jurisdictions/
+
+  - title: Directory
+    url: /directory/
+
+  - title: Contact
+    url: /contact/
+
+
+# Columns style footer navigation
+columns:
+  - title: Company
+    links:
+      - title: "Child Page A1"
+        url: /1
+      - title: "Child Page A2"
+        url: /2
+      - title: Contact
+        url: /contact/
+
+  - title: Products
+    links:
+      - title: "Child Page A1"
+        url: /1
+      - title: "Child Page A2"
+        url: /2
+      - title: Contact
+        url: /contact/
+
+  - title: Contact
+    links:
+      - title: "Child Page A1"
+        url: /1
+      - title: "Child Page A2"
+        url: /2
+      - title: Contact
+        url: /contact/

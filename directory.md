@@ -1,39 +1,41 @@
 ---
-title: Directory
+title: LRMG Member Directory
 description: Life Ripples Ministries Global Faith Community 2016 member directory.
 image: /images/hero/crowd.jpg
-layout: page-content
+width: single
 ---
+
+### Table of contents
+{:.no_toc}
+* TOC
+{:toc}
+{::options toc_levels="1,2" /}
 
 ## Apostolic Council
 ### Apostle C. TyehimbaThonor-Kuykendall, II, D.D.
-#### Abbott / Presiding Prelate / Chief-Apostle
+#### *Abbott / Presiding Prelate / Chief-Apostle*
 Apostle Thonor-Kuykendall is non-denominational & Non-traditional ordained minister & consecrated bishop, consecrated with Apostolic Session as an apostle. He is the Senior Pastor of Prophetic Outreach Chapel/Cleveland-LRMG and Prophetic Chapel Pakistan-LRMG.
 
-<br/>
 ### Adjutant-Bishop David N.Greene
-#### General Secretary
+#### *General Secretary*
 Adjutant-Bishop David N. Greene is the Senior Pastor of The Hour of Deliverance Ministries (HODEM)-LRMG, a growing prophetic Church in Liberia, and the Overseer/ Pastor of The Life’s Ripples Ministries Global-LRMG, Liberia Charter.
 
-<br/>
 ### Apostle Shon
-#### Director of Religious Studies
+#### *Director of Religious Studies*
 Part of the Evangelistic Jurisdiction. He was appointed Director of Religious Studies in May 2012 & is a member of the Ordination Board, reaffirmed 25 October 2014.
 
-<br/>
 ### Apostle Cornelia Isaac
-#### Treasurer
+#### *Treasurer*
 Performs or oversees all of the financial record keeping functions and prepares the financial reports for the church.
 
-<br/>
 ### Bishop Kennedy Musungu
-#### Senior Pastor
+#### *Senior Pastor*
 Senior Pastor of Glory Miracle Celebration Centre in Kenya. Loves doing what he (God) send him to do.
 
-<br/>   
 
 ## United States
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Apostle Cornelia Isaac | Apostle | cornelus_isaac@yahoo.com | &#10003;
@@ -46,10 +48,10 @@ Toshara Masih | EIT (Evangelist In Training) | | &#10003;
 Jessie Spears | Reverend | | &#10003;
 David Cooks Junior | EIT (Evangelist In Training) | | &#10003;
 
-<br/>
 
 ## Kenya
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Pastor Joseph Wasike | Pastor |  | &#10003;
@@ -99,14 +101,14 @@ Miyawa Joan Ayu | EIT (Evangelist In Training) | joanmiyawa@yahoo.com | &#10003;
 Anziya Beatrice Mbayi | EIT (Evangelist In Training) | andulaj@yahoo.com | &#10003;
 Fredrick S.Mutenyo | EIT (Evangelist In Training) |  | &#10003;
 
-<br/>
 
 ## Pakistan
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Majid Ahmed | EIT (Evangelist In Training) |  | &#10003;
-Ghazala Majid | EIT (Evangelist In Training) |  | &#10003;
+Ghazala Majid | Evangelist |  | &#10003;
 Danish Zaman | EIT (Evangelist In Training) |  | &#10003;
 Waqar Sohail | EIT (Evangelist In Training) |  | &#10003;
 Amer Zeeshan | MIT (Minister In Training) |  | &#10003;
@@ -126,10 +128,10 @@ Khurram Sohail | MIT (Minister In Training) |  | &#10003;
 Vincent John | DIT (Deacon In Training) |  | &#10003;
 Pastor Raees Wilson | RIT (Reverend In Training) |  | &#10003;
 
-<br/>
 
 ## Liberia
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 David N. Greene | Bishop |  | &#10003;
@@ -147,45 +149,47 @@ Jacob I Berry | MIT (Minister In Training) |  | &#10003;
 Romeal J. Wees | MIT (Minister In Training) |  | &#10003;
 Beatrice E. Samuel | MIT (Minister In Training) |  | &#10003;
 
-<br/>
 
 ## Uganda
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Obong Thomas Mike | EIT(Evangelist In Training) |  | &#10003;
 Bwiire Johnson | Pastor |  | &#10003;
 
-<br/>
 
 ## Bangladesh
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Niva Rani Sarkar | MIT (Minister In Training) |  | &#10003;
 
-<br/>
 
 ## India
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
 Binambra Jena | MIT (Minister In Training) |  | &#10003;
 S. Jestin | MIT (Minister In Training) |  | &#10003;
 Ajay Masih | RIT (Reverend In Training) |  | &#10003;
 
-<br/>
 
 ## Slovakia
 
+{: .uk-table .uk-table-divider}
 Name | Title | Email | In Good Standing
 --- | --- | --- | ---
-Sabeen Hidayat Chromjak | EIT (Evangelist In Training) | gillsabeen@yahoo.com | &#10003;
+Sabeen Hidayat Chromjak | Evangelist | gillsabeen@yahoo.com | &#10003;
 
-<br/>
 
 ## United Arab Emirates
 
-Name | Title | In Good Standing
---- | --- | ---
-Mohsin Ayub | MIT (Minister In Training) | &#10003;
+{: .uk-table .uk-table-divider}
+Name | Title | Email | In Good Standing
+--- | --- | --- | ---
+Mohsin Ayub | MIT (Minister In Training) | | &#10003;
+
+{% include totop.html %}

@@ -1,0 +1,29 @@
+# Navbar menu navigation links
+left:
+
+right:
+  - title: About
+    dropdown:
+      - title: Apostle C. Tyehimba
+        url: /apostle-c-tyehimba/
+      - title: Beliefs
+        url: /beliefs/
+      - title: Mission
+        url: /mission/
+      - title: Outreach
+        url: /outreach/
+
+  - title: Services
+    url: /services/
+
+  - title: Events
+    url: /events/
+
+  - title: Jurisdictions
+    url: /jurisdictions/
+
+  - title: Directory
+    url: /directory/
+
+  - title: Contact
+    url: /contact/
