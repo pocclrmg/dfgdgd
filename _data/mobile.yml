@@ -1,26 +1,30 @@
 # Navbar menu navigation links
-- title: Help
+- title: Home
   url: /
 
-- title: Faq
-  url: /faq/
+- title: Apostle C. Tyehimba
+  url: /apostle-c-tyehimba/
 
-- title: Contact
-  url: /contact/
+- title: Beliefs
+  url: /beliefs/
 
-- title: Dropdown
-  dropdown:
-    - title: "Child Page A1"
-      url: /1
-    - title: "Child Page A2"
-      url: /2
-    - title: Contact
-      url: /contact/
-    - title: "Child Page A4"
-      url: /4
+- title: Mission
+  url: /mission/
 
-- title: Blog
-  url: /blog/
+- title: Outreach
+  url: /outreach/
+
+- title: Services
+  url: /services/
+
+- title: Events
+  url: /events/
+
+- title: Jurisdictions
+  url: /jurisdictions/
+
+- title: Directory
+  url: /directory/
 
 - title: Contact
   url: /contact/
