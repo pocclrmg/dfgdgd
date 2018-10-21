@@ -24,7 +24,7 @@ paginate_path:      "/events/:num/" # Blog path
 
 
 google_analytics:   # Google analytics code, get your code here https://www.google.com/analytics/
-google_maps_api_key: AIzaSyAJTeOhKq4HhEsEbUze__fAPDQswd0gUSU # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+google_maps_api_key: AIzaSyCLLxvaPycuDZDHe9o_2KcKqUK4wssu1Aw # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 disqus:
     shortname:      # Disqus comments shortname, requires Disqus account https://disqus.com/
