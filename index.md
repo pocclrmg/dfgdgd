@@ -22,5 +22,3 @@ header:
 {% include cards.html id="home-cta" align="center" section="muted" %}
 
 {% include youtube.html %}
-
-{% include cards.html id="home-broadcast" style="none" align="center" section="primary" %}
