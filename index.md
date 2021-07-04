@@ -21,6 +21,6 @@ header:
 
 {% include cards.html id="home-cta" align="center" section="muted" %}
 
-{% include instagram.html count="8" section="default" %}
+{% include youtube.html %}
 
 {% include cards.html id="home-broadcast" style="none" align="center" section="primary" %}
